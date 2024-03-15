@@ -338,7 +338,7 @@
         <v-col md="3" offset-md="3">
           <v-btn color="white" dark text class="ml-n4">Project Beti</v-btn
           ><br />
-          <a href="https://mywebsitehost-570aa.web.app/">
+          <a href="https://projectbeti.web.app/">
   <v-btn color="#A7121D" dark text class="ml-n4">
     know more
     <v-icon right>mdi-arrow-right</v-icon>
